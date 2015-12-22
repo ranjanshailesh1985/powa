@@ -1,5 +1,4 @@
-# powa
-Loganalyzer
+# Loganalyzer
 
 The system is working on a recorded activity log files and the
 application process these logs to identify any suspicious activity.
